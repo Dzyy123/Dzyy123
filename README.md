@@ -26,11 +26,11 @@ I study **intervenable, planning-oriented physical world models and embodied int
 - **Intervene, Calibrate, Discover: Learning Causal Structure from Pixels** *(arXiv 2026)*  
   **Ziyi Ding\***, Xiaodi Huang\*, Xianxin Lai, Haijier Chen, Zhang Zhang, Xiao-Ping Zhang, Jiayu Chen · [arXiv](https://arxiv.org/abs/2610.34711) · [Interactive Project Page](https://dzyy123.github.io/intervene-calibrate-discover/) · [Physical Demos](https://github.com/Dzyy123/icd-physical-demos)
 - **CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics** *(ECCV 2026)*  
-  **Ziyi Ding**, Xianxin Lai, Weiyu Chen, Xiao-Ping Zhang, Jiayu Chen · [Springer](https://link.springer.com/chapter/10.1007/978-3-032-37252-9_16) · [arXiv](https://arxiv.org/pdf/2604.07712)
+  **Ziyi Ding**, Xianxin Lai, Weiyu Chen, Xiao-Ping Zhang, Jiayu Chen · [Project Page](https://dzyy123.github.io/projects/causalvae/) · [Springer](https://link.springer.com/chapter/10.1007/978-3-032-37252-9_16) · [arXiv](https://arxiv.org/pdf/2604.07712)
 - **Causal Tongue-Tie: LLMs Can Encode Causal Direction, But Their Yes/No Outputs Fail to Express** *(EMNLP 2026 · Award Nomination)*  
-  **Ziyi Ding**, Xiao-Ping Zhang · [arXiv](https://arxiv.org/abs/2605.25891) · [Code](https://github.com/Dzyy123/tongue-tie-emnlp2026)
+  **Ziyi Ding**, Xiao-Ping Zhang · [Project Page](https://dzyy123.github.io/projects/causal-tongue-tie/) · [arXiv](https://arxiv.org/abs/2605.25891) · [Code](https://github.com/Dzyy123/tongue-tie-emnlp2026)
 - **Traj-LeWM: Path-Aware World-Model Planning via Latent Trajectory Cost** *(arXiv 2026)*  
-  Xiaodi Huang\*, **Ziyi Ding\***, et al. · [arXiv](https://arxiv.org/abs/2608.14125)
+  Xiaodi Huang\*, **Ziyi Ding\***, et al. · [Project Page](https://dzyy123.github.io/projects/traj-lewm/) · [arXiv](https://arxiv.org/abs/2608.14125)
 
 ---
 
